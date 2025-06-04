@@ -15,7 +15,7 @@
     "is-relative-url": "1.0.0",
     "through2": "0.6.5",
     "useref": "1.4.2",
-    "vinyl-fs": "1.0.0"
+    "vinyl-fs": "https://github.com/theThings/vinyl-fs.git"
   },
   "engines": {
     "node": ">=0.10.0"
